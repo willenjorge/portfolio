@@ -66,7 +66,7 @@ html {
 
     .nav-bar-contact-me:hover {
         background-color: #00FF9C;
-        border: solid #00FF9C 3px;
+        /* border: solid #00FF9C 3px; */
         transition: 0.5s;
     }
 
